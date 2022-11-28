@@ -1,0 +1,7 @@
+**/.idea
+**/.gradle
+**/build
+**/xcuserdata
+**/local.properties
+*.hprof
+
